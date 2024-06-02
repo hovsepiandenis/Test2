@@ -1,9 +1,4 @@
-Sample Config
-version: 1.0
-
-version: 2.0
-
-name: Windows Python application
+name: Windows Python
 
 on:
   push:
